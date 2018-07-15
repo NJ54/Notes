@@ -1,0 +1,9 @@
+git clone "url"
+
+git add "filename"
+
+git commit
+
+git status
+
+git push origin master
